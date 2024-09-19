@@ -1,1 +1,1 @@
-# xss.js
+# to exploit xss
